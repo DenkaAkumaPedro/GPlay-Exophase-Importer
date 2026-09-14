@@ -1,0 +1,13 @@
+## Build output
+bin/
+obj/
+dist/
+
+## IDE / OS
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+Thumbs.db

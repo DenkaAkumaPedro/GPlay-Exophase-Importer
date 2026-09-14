@@ -1,0 +1,8 @@
+AddonId: GPlayExophaseImporter
+Packages:
+  - Version: 0.1.0
+    RequiredApiVersion: 6.0.0
+    ReleaseDate: 2026-09-14
+    PackageUrl: https://github.com/DenkaAkumaPedro/GPlay-Exophase-Importer/releases/download/0.1.0/GPlayExophaseImporter_0_1_0.pext
+    Changelog:
+      - Initial release. Tested and working; secondary/experimental project - feedback welcome, updates may be slow.

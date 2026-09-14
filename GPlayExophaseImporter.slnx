@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GPlayExophaseImporter.csproj" />
+  <Project Path="GPlayExophaseImporter.Tests/GPlayExophaseImporter.Tests.csproj" />
+</Solution>
